@@ -1,6 +1,6 @@
 from pywebcopy import Crawler, config
 
-target_site = 'Localiza_Fake"'
+target_site = 'Localiza_Fake'
 target_url = 'http://leilaolocalliza.com/'
 destination = '/home/ernani/paginas_salvas/'
 
