@@ -1,1 +1,1 @@
-httrack "$TESTSITE" -O "/home/ernani/paginas_salvas/"
+httrack "$TESTSITE" -O "/home/ernani/paginas_salvas/" --mirror
