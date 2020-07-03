@@ -1,1 +1,1 @@
-httrack "$TESTSITE" -O "/home/ernani/paginas_salvas/" --quiet
+httrack "$TESTSITE" -O "$DESTINY" --quiet
